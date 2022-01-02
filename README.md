@@ -1,3 +1,3 @@
 # HTML
 
-Bu dosya Front End 101 HTML eğitimi kapsamında yaptığım ilk ödevdir.
+Bu repoda Front End 101 HTML eğitimi kapsamında yaptığım ilk ödevler bulunmaktadır.
